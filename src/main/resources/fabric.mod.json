@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "custom-item-models",
+  "version": "${version}",
+  "name": "CustomItemModels",
+  "description": "Adds CustomModelData changing recipe",
+  "authors": [
+    "DimasKama"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/custom-item-models/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ru.dimaskama.cim.CustomItemModels"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

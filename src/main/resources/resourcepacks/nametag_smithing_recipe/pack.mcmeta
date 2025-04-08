@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Modify custom_model_data by smithing item with renamed Name Tag!",
+    "pack_format": 61,
+    "supported_formats": { "min_inclusive": 61, "max_inclusive": 71 }
+  }
+}
